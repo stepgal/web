@@ -83,7 +83,7 @@ error_reporting(0);
         </form>
         <?php
         $userId = $_SESSION['user_info']['_id'];
-        $url = 'http://127.0.0.1:3002/items/'.$userId;
+        $url = 'http://3.15.18.44:3002/items/'.$userId;
         $response = file_get_contents($url);
         $response = json_decode($response,true);
         $items = $response['items'];
