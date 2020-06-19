@@ -10,7 +10,7 @@ error_reporting(0);
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Login</title>
+        <title>Shop2020 Dashboard</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/main.css">
@@ -51,7 +51,7 @@ error_reporting(0);
     } else { ?>
 	    <form id="login-form" class="login-form" name="form1" method="post" action="index.php">
 	    	<input type="hidden" name="is_login" value="1">
-	        <div class="h1">Login Form</div>
+	        <div class="h1">Login</div>
 	        <div id="form-content">
 	            <div class="group">
 	                <label for="email">Email</label>
