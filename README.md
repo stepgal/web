@@ -4,9 +4,9 @@
 
 This website allows you to signup/login into your account and create/remove shopping items.
 
-[<img src="https://raw.githubusercontent.com/stepgal/web/master/img/dashboard1.png" align="center" width="600" hspace="10" vspace="10">](https://raw.githubusercontent.com/stepgal/web/master/img/dashboard1.png)
+[<img src="https://raw.githubusercontent.com/stepgal/web/master/img/dashboard1.png" align="center" width="800" hspace="10" vspace="10">](https://raw.githubusercontent.com/stepgal/web/master/img/dashboard1.png)
 
-[<img src="https://raw.githubusercontent.com/stepgal/web/master/img/dashboard2.png" align="center" width="600" hspace="10" vspace="10">](https://raw.githubusercontent.com/stepgal/web/master/img/dashboard2.png)
+[<img src="https://raw.githubusercontent.com/stepgal/web/master/img/dashboard2.png" align="center" width="800" hspace="10" vspace="10">](https://raw.githubusercontent.com/stepgal/web/master/img/dashboard2.png)
 
 
 ### Link
