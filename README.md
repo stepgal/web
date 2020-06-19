@@ -8,7 +8,6 @@ This website allows you to signup/login into your account and create/remove shop
 
 [<img src="https://raw.githubusercontent.com/stepgal/web/master/img/dashboard2.png" align="center" width="800" hspace="10" vspace="10">](https://raw.githubusercontent.com/stepgal/web/master/img/dashboard2.png)
 
-
 ### Link
 
 [Shop2020 Dashboard](http://ec2-3-133-160-63.us-east-2.compute.amazonaws.com)
